@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Aradhya Phutak
 
 ## About Me
-- 🔭 Data Analyst & Machine Learning Engineer  
+- 🔭 Data Analyst & Machine Learning Engineer 
 - 🎓 Aspiring Data Science & Analytics (AI)
 - 🛠 Skilled in Python, SQL, Power BI, TensorFlow, and PyTorch  
 - 🌱 Currently exploring advanced LLM and MLOps  
@@ -32,11 +32,6 @@
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aradhyagh&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aradhyagh&layout=compact&theme=tokyonight)
-
----
-
-## 🛠 Most Used Languages
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aradhyagh&langs_count=8&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
@@ -47,12 +42,3 @@
 - [Website Phishing Prediction](https://github.com/aradhyagh/website-phishing-prediction)
 - [Web Scraping Automation](https://github.com/aradhyagh/web-scraping)
 - [Titanic Dataset EDA](https://github.com/aradhyagh/titanic-eda)
-
----
-
-## 🤝 Collaboration & Contact
-- 🔭 I’m currently working on **Data Visualization & Automated Analytics Projects**  
-- 🧠 I’m currently learning **Advanced Machine Learning and MLOps**  
-- 🤝 I’m looking to collaborate on **Deep Learning and NLP Projects**  
-- 💬 Ask me about **Machine Learning, Data Analysis, and Deployment**  
-- 📫 How to reach me: **iamaradhya840@gmail.com**
