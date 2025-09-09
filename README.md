@@ -35,10 +35,38 @@
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aradhyagh&langs_count=8&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-## under construction below
-
 
 ## 🛠 Projects
-- [Website Phishing Prediction](https://github.com/aradhyagh/website-phishing-prediction)
-- [Web Scraping Automation](https://github.com/aradhyagh/web-scraping)
-- [Titanic Dataset EDA](https://github.com/aradhyagh/titanic-eda)
+
+### Computer Vision
+- [cv2 codes](https://github.com/aradhyagh/Computer-Vision-with-OpenCV-Practice-Notebook)
+- [Image Classification](https://github.com/aradhyagh/Image-Classification-Project)
+- [Yolo Model Training](https://github.com/aradhyagh/YOLO-Model-Training)
+
+### Langchains
+- [RAG using langchain and openAI](https://github.com/aradhyagh/RAG-using-LangChain-and-OpenAI)
+
+### Natural Language Processing
+- [Text Classification](https://github.com/aradhyagh/nlp-text-classification)
+
+### Machine Learning and Deep learning
+- [Website Detection](https://github.com/aradhyagh/machine-learning-website-detection)
+- [House Price Prediction](https://github.com/aradhyagh/house-price-prediction)
+
+### Market Research
+- [Good night mosquito repellent](https://github.com/aradhyagh/mosquito-repellent-review-analysis)
+- [Alter diaper](https://github.com/aradhyagh/alter-diaper-review-analysis)
+
+### Web Scraping
+- [College Website](https://github.com/aradhyagh/web-scraping-collegewebsite)
+- [Book shop](https://github.com/aradhyagh/web_scraping_books)
+
+### Python
+- [Task Manager](https://github.com/aradhyagh/python-object-oriented-programming-task-manager)
+
+### SQL
+- [SQL Case Study](https://github.com/aradhyagh/sql_case_study_icecreamshop)
+
+### Business Intelligence
+- [E-commerce Excel](https://github.com/aradhyagh/E-commerce)
+- [Pie Bakery](https://github.com/aradhyagh/powerbi_piebakery)
