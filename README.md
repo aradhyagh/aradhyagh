@@ -17,13 +17,13 @@
 
 ## 💼 Experience
 
-### **Data Analyst** – *Anve-Mark Pvt. Ltd* (Mar 2024 – Present)
+### **Data Analyst** – *Anve-Mark Pvt. Ltd*
 - Developed Power BI dashboards, reducing manual reporting.  
 - Automated Python pipelines, cutting reporting cycleand reducing errors.  
 - Performed large dataset analyses to support management decisions.  
 - Applied NLP and ML for feedback analysis, improving insight accuracy.
 
-### **Machine Learning Engineer** – *Code B Solutions Pvt. Ltd* (Feb 2024 – Apr 2024)
+### **Machine Learning Engineer** – *Code B Solutions Pvt. Ltd*
 - Built and optimized ML models, improving prediction accuracy.  
 - Processed **large data points weekly** for training and preprocessing.  
 - Collaborated with business teams for **model deployment** in segmentation and risk analysis.
