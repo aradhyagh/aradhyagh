@@ -65,7 +65,8 @@
 - [Task Manager](https://github.com/aradhyagh/python-object-oriented-programming-task-manager)
 
 ### SQL
-- [SQL Case Study](https://github.com/aradhyagh/sql_case_study_icecreamshop)
+- [SQL Case Study E-Com](https://github.com/aradhyagh/SQL-Case-study-ECom)
+- [SQL Case Study icecreamshop](https://github.com/aradhyagh/sql_case_study_icecreamshop)
 
 ### Business Intelligence
 - [E-commerce Excel](https://github.com/aradhyagh/E-commerce)
