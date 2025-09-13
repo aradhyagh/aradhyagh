@@ -40,6 +40,8 @@
 
 ## 🛠 Projects
 
+![Projects](https://github.com/aradhyagh/aradhyagh/blob/main/projects.gif)
+
 ### Computer Vision
 - [cv2 codes](https://github.com/aradhyagh/Computer-Vision-with-OpenCV-Practice-Notebook)
 - [Image Classification](https://github.com/aradhyagh/Image-Classification-Project)
