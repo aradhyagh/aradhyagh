@@ -1,3 +1,5 @@
+![gif for git.gif](https://github.com/aradhyagh/aradhyagh/blob/main/gif%20for%20git.gif)
+
 # Hi there 👋 I'm Aradhya Phutak
 
 ## About Me
