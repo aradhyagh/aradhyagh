@@ -42,6 +42,7 @@
 - [cv2 codes](https://github.com/aradhyagh/Computer-Vision-with-OpenCV-Practice-Notebook)
 - [Image Classification](https://github.com/aradhyagh/Image-Classification-Project)
 - [Yolo Model Training](https://github.com/aradhyagh/YOLO-Model-Training)
+- [ocr data extraction](https://github.com/aradhyagh/invoice-ocr-data-extraction/tree/main)
 
 ### Langchains
 - [RAG using langchain and openAI](https://github.com/aradhyagh/RAG-using-LangChain-and-OpenAI)
