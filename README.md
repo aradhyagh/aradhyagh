@@ -69,6 +69,7 @@
 ### Python
 - [Task Manager](https://github.com/aradhyagh/python-object-oriented-programming-task-manager)
 - [Streamlit BI using python](https://github.com/aradhyagh/streamlit-bi)
+- [Snake and ladder](https://github.com/aradhyagh/snake-and-ladder)
 
 ### SQL
 - [SQL Case Study E-Com](https://github.com/aradhyagh/SQL-Case-study-ECom)
