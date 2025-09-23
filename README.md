@@ -47,6 +47,7 @@
 - [Image Classification](https://github.com/aradhyagh/Image-Classification-Project)
 - [Yolo Model Training](https://github.com/aradhyagh/YOLO-Model-Training)
 - [ocr data extraction](https://github.com/aradhyagh/invoice-ocr-data-extraction/tree/main)
+- [Yolo Queue counter](https://github.com/aradhyagh/yolo-queue-counter)
 
 ### Langchains
 - [RAG using langchain and openAI](https://github.com/aradhyagh/RAG-using-LangChain-and-OpenAI)
