@@ -25,7 +25,7 @@
 - Performed large dataset analyses to support management decisions.  
 - Applied NLP and ML for feedback analysis, improving insight accuracy.
 
-### **Machine Learning Engineer** – *Code B Solutions Pvt. Ltd*
+### **Data Science Intern** – *Code B Solutions Pvt. Ltd*
 - Built and optimized ML models, improving prediction accuracy.  
 - Processed **large data points weekly** for training and preprocessing.  
 - Collaborated with business teams for **model deployment** in segmentation and risk analysis.
@@ -43,11 +43,11 @@
 ![Projects](https://github.com/aradhyagh/aradhyagh/blob/main/projects.gif)
 
 ### Computer Vision
-- [cv2 codes](https://github.com/aradhyagh/Computer-Vision-with-OpenCV-Practice-Notebook)
-- [Image Classification](https://github.com/aradhyagh/Image-Classification-Project)
-- [Yolo Model Training](https://github.com/aradhyagh/YOLO-Model-Training)
-- [ocr data extraction](https://github.com/aradhyagh/invoice-ocr-data-extraction/tree/main)
 - [Yolo Queue counter](https://github.com/aradhyagh/yolo-queue-counter)
+- [Yolo Model Training](https://github.com/aradhyagh/YOLO-Model-Training)
+- [Image Classification](https://github.com/aradhyagh/Image-Classification-Project)
+- [cv2 codes](https://github.com/aradhyagh/Computer-Vision-with-OpenCV-Practice-Notebook)
+- [ocr data extraction](https://github.com/aradhyagh/invoice-ocr-data-extraction/tree/main)
 
 ### Langchains
 - [RAG using langchain and openAI](https://github.com/aradhyagh/RAG-using-LangChain-and-OpenAI)
@@ -56,7 +56,7 @@
 - [Text Classification](https://github.com/aradhyagh/nlp-text-classification)
 
 ### Machine Learning and Deep learning
-- [Website Detection](https://github.com/aradhyagh/machine-learning-website-detection)
+- [Website Detection (Classification)](https://github.com/aradhyagh/machine-learning-website-detection)
 - [House Price Prediction](https://github.com/aradhyagh/house-price-prediction)
 
 ### Market Research
