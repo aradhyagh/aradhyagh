@@ -40,6 +40,8 @@
 
 ## 🛠 Projects
 
+!['projects](https://github.com/aradhyagh/aradhyagh/blob/main/1-12.gif)
+
 ### Computer Vision
 - [People Queue counter](https://github.com/aradhyagh/yolo-queue-counter)
 - [Yolo Model Training](https://github.com/aradhyagh/YOLO-Model-Training)
