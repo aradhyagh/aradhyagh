@@ -43,7 +43,7 @@
 ![Projects](https://github.com/aradhyagh/aradhyagh/blob/main/projects.gif)
 
 ### Computer Vision
-- [Yolo Queue counter](https://github.com/aradhyagh/yolo-queue-counter)
+- [People Queue counter](https://github.com/aradhyagh/yolo-queue-counter)
 - [Yolo Model Training](https://github.com/aradhyagh/YOLO-Model-Training)
 - [Image Classification](https://github.com/aradhyagh/Image-Classification-Project)
 - [cv2 codes](https://github.com/aradhyagh/Computer-Vision-with-OpenCV-Practice-Notebook)
