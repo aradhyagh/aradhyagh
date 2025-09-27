@@ -3,7 +3,7 @@
 # Hi there 👋 I'm Aradhya Phutak
 
 ## About Me
-- 🔭 Data Analyst & Machine Learning Engineer 
+- 🔭 Data Analyst & Machine Learning Enthusiast 
 - 🎓 Aspiring Data Science & Analytics (AI)
 - 🛠 Skilled in Python, SQL, Power BI, TensorFlow, and PyTorch  
 - 🌱 Currently exploring advanced LLM and MLOps  
