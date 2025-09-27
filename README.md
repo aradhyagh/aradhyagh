@@ -40,8 +40,6 @@
 
 ## 🛠 Projects
 
-![Projects](https://github.com/aradhyagh/aradhyagh/blob/main/projects.gif)
-
 ### Computer Vision
 - [People Queue counter](https://github.com/aradhyagh/yolo-queue-counter)
 - [Yolo Model Training](https://github.com/aradhyagh/YOLO-Model-Training)
@@ -79,3 +77,7 @@
 ### Business Intelligence
 - [E-commerce Excel](https://github.com/aradhyagh/E-commerce)
 - [Pie Bakery](https://github.com/aradhyagh/powerbi_piebakery)
+
+---
+
+![End](https://github.com/aradhyagh/aradhyagh/blob/main/Picsart_25-09-28_00-25-45-241.png)
