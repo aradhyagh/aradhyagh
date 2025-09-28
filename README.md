@@ -1,3 +1,6 @@
+# Featured:
+## - [IT Vedant Project participation](https://github.com/aradhyagh/IT-vedant-project)
+
 ![gif for git.gif](https://github.com/aradhyagh/aradhyagh/blob/main/gif%20for%20git.gif)
 
 # Hi there 👋 I'm Aradhya Phutak
