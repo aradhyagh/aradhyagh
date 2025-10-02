@@ -1,4 +1,4 @@
-# Featured 
+# Featured Projects
 ### :- [Yolo queue people counter](https://github.com/aradhyagh/yolo-queue-counter)
 ### :- [IT Vedant Project participation](https://github.com/aradhyagh/IT-vedant-project)
 
