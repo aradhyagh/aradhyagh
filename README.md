@@ -1,5 +1,8 @@
 # Featured 
-## :- [IT Vedant Project participation](https://github.com/aradhyagh/IT-vedant-project)
+### :- [Yolo queue people counter](https://github.com/aradhyagh/yolo-queue-counter)
+### :- [IT Vedant Project participation](https://github.com/aradhyagh/IT-vedant-project)
+
+---
 
 ![gif for git.gif](https://github.com/aradhyagh/aradhyagh/blob/main/gif%20for%20git.gif)
 
